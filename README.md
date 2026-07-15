@@ -1,80 +1,49 @@
-<p align="center">
-  <img src="./assets/banner-premium.svg" width="100%" alt="Dipak Kumar B" />
-</p>
+# Dipak Kumar B
 
-## Introduction
+Software engineer building full-stack products with applied AI.
 
-I'm an Electrical & Electronics Engineering student at SSN College of Engineering building backend-first software with AI and clean user experiences. Recent work includes an AI/ML internship, hackathon-winning builds, and full-stack projects shaped around practical problems.
+Chennai, India — dipakkumar2310830@ssn.edu.in — [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-ID) — [GitHub](https://github.com/YOUR-GITHUB-USERNAME)
 
-## What I'm Currently Doing
+## About
 
-- Building with Python, FastAPI, Node.js, React, and PostgreSQL.
-- Spending more time on backend engineering, AI, full-stack product work, and distributed systems fundamentals.
-- Looking for problems that reward careful implementation, product thinking, and good engineering taste.
+I'm an Electrical & Electronics Engineering student at SSN College of Engineering, currently focused on full-stack development and applied AI. I most recently worked as an AI/ML Technology Intern at Xzyntrix Technologies, and outside of that I build complete projects on my own rather than half-finished ones.
 
-## Tech Stack
+## Experience
 
-<p align="center">
-  <img src="./assets/stack-grid.svg" width="100%" alt="Technologies used by Dipak Kumar B" />
-</p>
+**Xzyntrix Technologies** — AI/ML Technology Intern
+*Dec 2025 – Jan 2026*
 
-## Featured Projects
+Built an AI trip-planning application that turns natural-language prompts into personalized 3–5 day itineraries. Designed the two REST APIs behind itinerary generation and refinement, and shipped streaming responses backed by a schema-consistent JSON output pipeline.
 
-<p align="center">
-  <a href="https://github.com/search?q=user%3ADipakkumar26+AgriConnect&type=repositories">
-    <img src="./assets/project-agriconnect.svg" width="100%" alt="AgriConnect project card" />
-  </a>
-</p>
+`React.js` `Vite` `FastAPI` `LangChain` `Groq` `OpenAI API`
 
-<p align="center">
-  <a href="https://github.com/search?q=user%3ADipakkumar26+AgriConnect&type=repositories">
-    <img src="./assets/button-github.svg" height="36" alt="View AgriConnect on GitHub" />
-  </a>
-</p>
+## Projects
 
-<p align="center">
-  <a href="https://github.com/search?q=user%3ADipakkumar26+TypeRush&type=repositories">
-    <img src="./assets/project-typerush.svg" width="100%" alt="TypeRush project card" />
-  </a>
-</p>
+**AgriConnect** — full-stack agri-commerce marketplace supporting 3 user roles, 15+ screens, and 10+ APIs across marketplace, verification, and order workflows. Includes a Tamil voice-to-listing flow that uses speech recognition, translation, and LLM extraction to auto-fill product fields.
+`React.js` `FastAPI` `Firestore` `PostgreSQL` `JWT` `Groq`
 
-<p align="center">
-  <a href="https://github.com/search?q=user%3ADipakkumar26+TypeRush&type=repositories">
-    <img src="./assets/button-github.svg" height="36" alt="View TypeRush on GitHub" />
-  </a>
-</p>
+**Now or Never** — MERN marketplace consolidating 12+ on-demand campus services under one fixed-rate booking system, with an admin console built on custom Mongoose aggregation pipelines and role-based routing across three access levels.
+`React.js` `Express.js` `Node.js` `MongoDB`
 
-<p align="center">
-  <a href="https://github.com/search?q=user%3ADipakkumar26+%22AI+Trip+Planner%22&type=repositories">
-    <img src="./assets/project-ai-trip-planner.svg" width="100%" alt="AI Trip Planner project card" />
-  </a>
-</p>
+## Skills
 
-<p align="center">
-  <a href="https://github.com/search?q=user%3ADipakkumar26+%22AI+Trip+Planner%22&type=repositories">
-    <img src="./assets/button-github.svg" height="36" alt="View AI Trip Planner on GitHub" />
-  </a>
-</p>
+**Languages** — Python, JavaScript, SQL, C, C++
+**Web / Backend** — React.js, HTML5, CSS3, FastAPI, REST APIs, Express.js, Node.js
+**Databases / Cloud** — PostgreSQL, MySQL, Firebase, MongoDB
+**Tools** — Git, GitHub, VS Code, PyCharm, Postman
 
-## GitHub Statistics
+## Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipakkumar26&show_icons=true&include_all_commits=true&hide_border=false&bg_color=FBFCFE&title_color=0F172A&text_color=475569&icon_color=0F766E&border_color=D8E1EB&rank_icon=github" height="170" alt="GitHub stats for Dipak Kumar B" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakkumar26&layout=compact&hide_border=false&bg_color=FBFCFE&title_color=0F172A&text_color=475569&border_color=D8E1EB&langs_count=6" height="170" alt="Top languages used by Dipak Kumar B" />
-</p>
+**B.E. Electrical and Electronics Engineering** — Sri Sivasubramaniya Nadar College of Engineering, Chennai
+CGPA: 8.519/10.0 · 2023 – Present
 
-## Contact
+**12th Grade** — SBOA School and Junior College, Chennai
+486/500 · 2021 – 2023
 
-<p>
-  <a href="mailto:dipakkumar2310830@ssn.edu.in">
-    <img src="./assets/icon-email.svg" width="14" alt="" />
-    Email
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Dipakkumar26">
-    <img src="./assets/icon-github.svg" width="14" alt="" />
-    GitHub
-  </a>
-</p>
+## Certifications
 
-<!-- Add verified LinkedIn and portfolio URLs here when available. -->
+The Complete Web Development Bootcamp (Udemy) · Python for Everybody Specialization (Coursera) · REST API Development with FastAPI
+
+## Achievements
+
+Winner, Lithos Hackathon · Winner, Circuit Crafts Competition
