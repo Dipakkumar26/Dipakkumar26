@@ -1,0 +1,70 @@
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="16" y="16" width="1248" height="308" rx="28" fill="#FBFCFE"/>
+  <rect x="16.75" y="16.75" width="1246.5" height="306.5" rx="27.25" stroke="#D8E1EB" stroke-width="1.5"/>
+  <text x="52" y="64" fill="#0F172A" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="24" font-weight="600">Core Technologies</text>
+  <text x="52" y="94" fill="#64748B" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="15">Tools and languages I reach for most often.</text>
+
+  <g font-family="'Inter', 'Segoe UI', Arial, sans-serif">
+    <rect x="52" y="126" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="78" y="156" fill="#0F172A" font-size="18" font-weight="500">Python</text>
+    <circle cx="294" cy="150" r="7" fill="#E6F6F3"/>
+    <circle cx="294" cy="150" r="3.5" fill="#0F766E"/>
+
+    <rect x="344" y="126" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="370" y="156" fill="#0F172A" font-size="18" font-weight="500">Java</text>
+    <circle cx="586" cy="150" r="7" fill="#E6F0FF"/>
+    <circle cx="586" cy="150" r="3.5" fill="#2563EB"/>
+
+    <rect x="636" y="126" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="662" y="156" fill="#0F172A" font-size="18" font-weight="500">JavaScript</text>
+    <circle cx="878" cy="150" r="7" fill="#EEF2FF"/>
+    <circle cx="878" cy="150" r="3.5" fill="#7C3AED"/>
+
+    <rect x="928" y="126" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="954" y="156" fill="#0F172A" font-size="18" font-weight="500">React</text>
+    <circle cx="1170" cy="150" r="7" fill="#E6F0FF"/>
+    <circle cx="1170" cy="150" r="3.5" fill="#2563EB"/>
+
+    <rect x="52" y="190" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="78" y="220" fill="#0F172A" font-size="18" font-weight="500">FastAPI</text>
+    <circle cx="294" cy="214" r="7" fill="#E6F6F3"/>
+    <circle cx="294" cy="214" r="3.5" fill="#0F766E"/>
+
+    <rect x="344" y="190" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="370" y="220" fill="#0F172A" font-size="18" font-weight="500">Node.js</text>
+    <circle cx="586" cy="214" r="7" fill="#E6F6F3"/>
+    <circle cx="586" cy="214" r="3.5" fill="#0F766E"/>
+
+    <rect x="636" y="190" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="662" y="220" fill="#0F172A" font-size="18" font-weight="500">Express</text>
+    <circle cx="878" cy="214" r="7" fill="#E6F0FF"/>
+    <circle cx="878" cy="214" r="3.5" fill="#2563EB"/>
+
+    <rect x="928" y="190" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="954" y="220" fill="#0F172A" font-size="18" font-weight="500">MongoDB</text>
+    <circle cx="1170" cy="214" r="7" fill="#E6F6F3"/>
+    <circle cx="1170" cy="214" r="3.5" fill="#0F766E"/>
+  </g>
+
+  <g font-family="'Inter', 'Segoe UI', Arial, sans-serif">
+    <rect x="52" y="254" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="78" y="284" fill="#0F172A" font-size="18" font-weight="500">PostgreSQL</text>
+    <circle cx="294" cy="278" r="7" fill="#E6F0FF"/>
+    <circle cx="294" cy="278" r="3.5" fill="#2563EB"/>
+
+    <rect x="344" y="254" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="370" y="284" fill="#0F172A" font-size="18" font-weight="500">Git</text>
+    <circle cx="586" cy="278" r="7" fill="#EEF2FF"/>
+    <circle cx="586" cy="278" r="3.5" fill="#7C3AED"/>
+
+    <rect x="636" y="254" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="662" y="284" fill="#0F172A" font-size="18" font-weight="500">Docker</text>
+    <circle cx="878" cy="278" r="7" fill="#E6F0FF"/>
+    <circle cx="878" cy="278" r="3.5" fill="#2563EB"/>
+
+    <rect x="928" y="254" width="276" height="48" rx="16" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="954" y="284" fill="#0F172A" font-size="18" font-weight="500">VS Code</text>
+    <circle cx="1170" cy="278" r="7" fill="#E6F6F3"/>
+    <circle cx="1170" cy="278" r="3.5" fill="#0F766E"/>
+  </g>
+</svg>

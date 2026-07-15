@@ -1,0 +1,36 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bannerGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(984 94) rotate(131.259) scale(314.644 273.66)">
+      <stop stop-color="#E0ECFF"/>
+      <stop offset="1" stop-color="#E0ECFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bannerLine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#0F766E"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="16" y="16" width="1248" height="328" rx="30" fill="#FBFCFE"/>
+  <rect x="16.75" y="16.75" width="1246.5" height="326.5" rx="29.25" stroke="#D8E1EB" stroke-width="1.5"/>
+  <circle cx="980" cy="108" r="170" fill="url(#bannerGlow)"/>
+  <path d="M1008 78C1060.86 78 1108 120.387 1108 176C1108 231.613 1060.86 274 1008 274" stroke="#D8E6F8" stroke-width="1.5"/>
+  <path d="M1038 102C1077.21 102 1112 135.578 1112 176C1112 216.422 1077.21 250 1038 250" stroke="#E4ECF6" stroke-width="1.5"/>
+  <path d="M912 138H1156" stroke="#E7EEF7" stroke-width="1.5"/>
+  <path d="M912 176H1156" stroke="#E7EEF7" stroke-width="1.5"/>
+  <path d="M912 214H1156" stroke="#E7EEF7" stroke-width="1.5"/>
+  <rect x="64" y="58" width="72" height="4" rx="2" fill="url(#bannerLine)"/>
+  <text x="64" y="108" fill="#0F172A" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="56" font-weight="600" letter-spacing="-1.4">Dipak Kumar B</text>
+  <text x="64" y="154" fill="#475569" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="500">Software Engineer / AI/ML Builder / Full Stack Developer</text>
+  <path d="M64 186H504" stroke="#D8E1EB" stroke-width="1.5"/>
+  <circle cx="516" cy="186" r="4" fill="#0F766E"/>
+  <text x="64" y="238" fill="#0F172A" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="22" font-weight="500">Building software that solves real-world problems.</text>
+  <text x="64" y="282" fill="#64748B" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="16">Backend systems, AI-driven workflows, and product experiences that stay useful beyond the demo.</text>
+  <rect x="930" y="88" width="220" height="176" rx="24" fill="#FFFFFF" fill-opacity="0.72" stroke="#E7EEF7"/>
+  <rect x="958" y="114" width="66" height="12" rx="6" fill="#DDEBFF"/>
+  <rect x="958" y="142" width="164" height="10" rx="5" fill="#E7EEF7"/>
+  <rect x="958" y="160" width="136" height="10" rx="5" fill="#E7EEF7"/>
+  <rect x="958" y="192" width="74" height="40" rx="14" fill="#F1F7FF" stroke="#D8E6F8"/>
+  <rect x="1044" y="192" width="78" height="40" rx="14" fill="#F6FBF9" stroke="#DCEFE6"/>
+  <circle cx="1062" cy="78" r="10" fill="#0F766E" fill-opacity="0.12"/>
+  <circle cx="1086" cy="78" r="10" fill="#2563EB" fill-opacity="0.12"/>
+</svg>

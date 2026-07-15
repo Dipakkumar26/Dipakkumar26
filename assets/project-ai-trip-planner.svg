@@ -1,0 +1,31 @@
+<svg width="1280" height="252" viewBox="0 0 1280 252" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="16" y="16" width="1248" height="220" rx="28" fill="#FBFCFE"/>
+  <rect x="16.75" y="16.75" width="1246.5" height="218.5" rx="27.25" stroke="#D8E1EB" stroke-width="1.5"/>
+  <rect x="52" y="54" width="68" height="4" rx="2" fill="#7C3AED"/>
+  <text x="52" y="84" fill="#64748B" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.8">FEATURED PROJECT</text>
+  <text x="52" y="132" fill="#0F172A" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600">AI Trip Planner</text>
+  <text x="52" y="168" fill="#475569" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="20">An AI-assisted travel planner that turns preferences into structured itineraries and next steps.</text>
+
+  <g font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="500">
+    <rect x="52" y="190" width="86" height="32" rx="12" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="75" y="210" fill="#0F172A">Python</text>
+    <rect x="150" y="190" width="92" height="32" rx="12" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="173" y="210" fill="#0F172A">FastAPI</text>
+    <rect x="254" y="190" width="82" height="32" rx="12" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="277" y="210" fill="#0F172A">React</text>
+    <rect x="348" y="190" width="118" height="32" rx="12" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="371" y="210" fill="#0F172A">PostgreSQL</text>
+  </g>
+
+  <rect x="920" y="56" width="276" height="140" rx="24" fill="#FAF7FF" stroke="#E9E0FB"/>
+  <path d="M966 162C1010 114 1058 120 1088 146C1112 166 1142 166 1162 140" stroke="#B8A1F3" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="968" cy="162" r="8" fill="#7C3AED" fill-opacity="0.16"/>
+  <circle cx="968" cy="162" r="4" fill="#7C3AED"/>
+  <circle cx="1088" cy="146" r="8" fill="#7C3AED" fill-opacity="0.16"/>
+  <circle cx="1088" cy="146" r="4" fill="#7C3AED"/>
+  <circle cx="1162" cy="140" r="8" fill="#7C3AED" fill-opacity="0.16"/>
+  <circle cx="1162" cy="140" r="4" fill="#7C3AED"/>
+  <rect x="952" y="84" width="88" height="16" rx="8" fill="#EDE7FB"/>
+  <rect x="952" y="112" width="148" height="12" rx="6" fill="#F1ECFC"/>
+  <circle cx="1168" cy="80" r="10" fill="#7C3AED" fill-opacity="0.12"/>
+</svg>

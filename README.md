@@ -1,81 +1,80 @@
-<div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Dipak Kumar B" />
-</div>
+<p align="center">
+  <img src="./assets/banner-premium.svg" width="100%" alt="Dipak Kumar B" />
+</p>
 
-<div align="center">
-  <a href="mailto:dipakkumar2310830@ssn.edu.in"><img src="https://img.shields.io/badge/-Email-0B1428?style=flat-square&logo=gmail&logoColor=64FFDA&labelColor=0B1428"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/-LinkedIn-0B1428?style=flat-square&logo=linkedin&logoColor=38BDF8&labelColor=0B1428"/></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/-GitHub-0B1428?style=flat-square&logo=github&logoColor=C792EA&labelColor=0B1428"/></a>
-</div>
+## Introduction
 
-<img src="./assets/divider1.svg" width="100%"/>
+I'm an Electrical & Electronics Engineering student at SSN College of Engineering building backend-first software with AI and clean user experiences. Recent work includes an AI/ML internship, hackathon-winning builds, and full-stack projects shaped around practical problems.
 
-### `whoami`
+## What I'm Currently Doing
 
-```
-> Undergrad in Electrical & Electronics Engineering, building on the software side.
-> Shipped 3 production-style apps spanning full-stack + applied GenAI.
-> Comfortable owning a feature end-to-end — schema to API to UI.
-> Hackathon-tested: Lithos Hackathon & Circuit Crafts Competition winner.
-```
+- Building with Python, FastAPI, Node.js, React, and PostgreSQL.
+- Spending more time on backend engineering, AI, full-stack product work, and distributed systems fundamentals.
+- Looking for problems that reward careful implementation, product thinking, and good engineering taste.
 
-<img src="./assets/divider2.svg" width="100%"/>
+## Tech Stack
 
-## `stack --list`
+<p align="center">
+  <img src="./assets/stack-grid.svg" width="100%" alt="Technologies used by Dipak Kumar B" />
+</p>
 
-<div align="center">
-  <img src="./assets/skills-languages.svg" width="92%"/>
-  <br/><br/>
-  <img src="./assets/skills-web.svg" width="92%"/>
-  <br/><br/>
-  <img src="./assets/skills-data.svg" width="92%"/>
-  <br/><br/>
-  <img src="./assets/skills-tools.svg" width="92%"/>
-</div>
+## Featured Projects
 
-<img src="./assets/divider3.svg" width="100%"/>
+<p align="center">
+  <a href="https://github.com/search?q=user%3ADipakkumar26+AgriConnect&type=repositories">
+    <img src="./assets/project-agriconnect.svg" width="100%" alt="AgriConnect project card" />
+  </a>
+</p>
 
-## `ls ./projects`
+<p align="center">
+  <a href="https://github.com/search?q=user%3ADipakkumar26+AgriConnect&type=repositories">
+    <img src="./assets/button-github.svg" height="36" alt="View AgriConnect on GitHub" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="./assets/proj-agriconnect.svg" width="80%"/>
-  <br/><br/>
-  <img src="./assets/proj-neverland.svg" width="80%"/>
-  <br/><br/>
-  <img src="./assets/proj-tripplanner.svg" width="80%"/>
-</div>
+<p align="center">
+  <a href="https://github.com/search?q=user%3ADipakkumar26+TypeRush&type=repositories">
+    <img src="./assets/project-typerush.svg" width="100%" alt="TypeRush project card" />
+  </a>
+</p>
 
-<img src="./assets/divider4.svg" width="100%"/>
+<p align="center">
+  <a href="https://github.com/search?q=user%3ADipakkumar26+TypeRush&type=repositories">
+    <img src="./assets/button-github.svg" height="36" alt="View TypeRush on GitHub" />
+  </a>
+</p>
 
-## `cat education.log`
+<p align="center">
+  <a href="https://github.com/search?q=user%3ADipakkumar26+%22AI+Trip+Planner%22&type=repositories">
+    <img src="./assets/project-ai-trip-planner.svg" width="100%" alt="AI Trip Planner project card" />
+  </a>
+</p>
 
-| | |
-|---|---|
-| 🎓 **B.E. Electrical & Electronics Engineering** | Sri Sivasubramaniya Nadar College of Engineering · CGPA 8.52/10.0 · 2023–Present |
-| 🏫 **12th Grade** | SBOA School and Junior College · 486/500 · 2021–2023 |
+<p align="center">
+  <a href="https://github.com/search?q=user%3ADipakkumar26+%22AI+Trip+Planner%22&type=repositories">
+    <img src="./assets/button-github.svg" height="36" alt="View AI Trip Planner on GitHub" />
+  </a>
+</p>
 
-## `cat certifications.log`
+## GitHub Statistics
 
-- The Complete Web Development Bootcamp — *Udemy*
-- Python for Everybody Specialization — *Coursera*
-- REST API Development with FastAPI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dipakkumar26&show_icons=true&include_all_commits=true&hide_border=false&bg_color=FBFCFE&title_color=0F172A&text_color=475569&icon_color=0F766E&border_color=D8E1EB&rank_icon=github" height="170" alt="GitHub stats for Dipak Kumar B" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakkumar26&layout=compact&hide_border=false&bg_color=FBFCFE&title_color=0F172A&text_color=475569&border_color=D8E1EB&langs_count=6" height="170" alt="Top languages used by Dipak Kumar B" />
+</p>
 
-## `cat achievements.log`
+## Contact
 
-- 🥇 Winner — Lithos Hackathon
-- 🥇 Winner — Circuit Crafts Competition
+<p>
+  <a href="mailto:dipakkumar2310830@ssn.edu.in">
+    <img src="./assets/icon-email.svg" width="14" alt="" />
+    Email
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Dipakkumar26">
+    <img src="./assets/icon-github.svg" width="14" alt="" />
+    GitHub
+  </a>
+</p>
 
-<img src="./assets/divider1.svg" width="100%"/>
-
-## `github --stats`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0B1428&title_color=64FFDA&icon_color=38BDF8&text_color=E7ECF7&ring_color=C792EA" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0B1428&title_color=64FFDA&text_color=E7ECF7" height="165"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&background=0B1428&ring=38BDF8&fire=FFAB40&currStreakLabel=64FFDA&sideLabels=E7ECF7&currStreakNum=E7ECF7&sideNums=E7ECF7&dates=8291B4"/>
-</div>
-
-<div align="center">
-  <img src="./assets/footer.svg" width="100%"/>
-</div>
+<!-- Add verified LinkedIn and portfolio URLs here when available. -->

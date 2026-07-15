@@ -1,0 +1,27 @@
+<svg width="1280" height="252" viewBox="0 0 1280 252" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="16" y="16" width="1248" height="220" rx="28" fill="#FBFCFE"/>
+  <rect x="16.75" y="16.75" width="1246.5" height="218.5" rx="27.25" stroke="#D8E1EB" stroke-width="1.5"/>
+  <rect x="52" y="54" width="68" height="4" rx="2" fill="#0F766E"/>
+  <text x="52" y="84" fill="#64748B" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.8">FEATURED PROJECT</text>
+  <text x="52" y="132" fill="#0F172A" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600">AgriConnect</text>
+  <text x="52" y="168" fill="#475569" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="20">A full-stack agricultural platform with AI-assisted listing workflows and marketplace operations.</text>
+
+  <g font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="15" font-weight="500">
+    <rect x="52" y="190" width="82" height="32" rx="12" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="75" y="210" fill="#0F172A">React</text>
+    <rect x="146" y="190" width="92" height="32" rx="12" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="169" y="210" fill="#0F172A">FastAPI</text>
+    <rect x="250" y="190" width="118" height="32" rx="12" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="273" y="210" fill="#0F172A">PostgreSQL</text>
+    <rect x="380" y="190" width="110" height="32" rx="12" fill="#FFFFFF" stroke="#D8E1EB"/>
+    <text x="403" y="210" fill="#0F172A">MongoDB</text>
+  </g>
+
+  <rect x="920" y="56" width="276" height="140" rx="24" fill="#F6FBF9" stroke="#DCEFE6"/>
+  <rect x="948" y="82" width="92" height="16" rx="8" fill="#DDEFE8"/>
+  <rect x="948" y="112" width="102" height="54" rx="18" fill="#FFFFFF" stroke="#DCEFE6"/>
+  <rect x="1064" y="112" width="104" height="54" rx="18" fill="#FFFFFF" stroke="#DCEFE6"/>
+  <rect x="980" y="134" width="38" height="10" rx="5" fill="#B7DEC9"/>
+  <rect x="1096" y="134" width="40" height="10" rx="5" fill="#B7DEC9"/>
+  <circle cx="1170" cy="78" r="10" fill="#0F766E" fill-opacity="0.12"/>
+</svg>
