@@ -1,0 +1,26 @@
+<svg width="620" height="333" viewBox="0 0 620 333" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B1428"/>
+      <stop offset="100%" stop-color="#070D1C"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="618" height="331" rx="14" fill="url(#cardbg)" stroke="#64FFDA" stroke-opacity="0.5"/>
+
+  <!-- title bar -->
+  <rect x="1" y="1" width="618" height="40" rx="14" fill="#0B1428"/>
+  <rect x="1" y="26" width="618" height="14" fill="#0B1428"/>
+  <circle cx="24" cy="20" r="6" fill="#FF5F56"/>
+  <circle cx="44" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="64" cy="20" r="6" fill="#27C93F"/>
+  <text x="310" y="25" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13" fill="#8291B4">agriconnect.sh</text>
+  <line x1="0" y1="40" x2="620" y2="40" stroke="#1E3358" stroke-width="1.5"/>
+
+  <!-- project title -->
+  <text x="26" y="64" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="16.5" font-weight="700" fill="#64FFDA">🌾 AgriConnect — Full-Stack Agri Marketplace</text>
+
+  <text x="26" y="74" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13.5" fill="#E7ECF7" xml:space="preserve">▸ Architected a 3-role agri-commerce platform: 15+ screens, 10+</text><text x="26" y="95" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13.5" fill="#8291B4" xml:space="preserve">  APIs for marketplace, verification &amp; order workflows.</text><text x="26" y="137" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13.5" fill="#E7ECF7" xml:space="preserve">▸ Built an AI-enabled Tamil voice-to-listing system (speech</text><text x="26" y="158" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13.5" fill="#8291B4" xml:space="preserve">  recognition + translation + LLM extraction) auto-filling 5</text><text x="26" y="179" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13.5" fill="#8291B4" xml:space="preserve">  product fields.</text><text x="26" y="221" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13.5" fill="#E7ECF7" xml:space="preserve">▸ Automated real-time inventory sync &amp; transactional order</text><text x="26" y="242" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13.5" fill="#8291B4" xml:space="preserve">  processing with JWT auth and role-based access control.</text>
+
+  <line x1="20" y1="283" x2="600" y2="283" stroke="#1E3358" stroke-width="1"/>
+  <rect x="26" y="291" width="130" height="22" rx="11" fill="#070D1C" stroke="#64FFDA" stroke-width="1"/><text x="91" y="306" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11.5" fill="#64FFDA">React.js</text><rect x="164" y="291" width="117" height="22" rx="11" fill="#070D1C" stroke="#64FFDA" stroke-width="1"/><text x="222" y="306" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11.5" fill="#64FFDA">FastAPI</text><rect x="289" y="291" width="143" height="22" rx="11" fill="#070D1C" stroke="#64FFDA" stroke-width="1"/><text x="360" y="306" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11.5" fill="#64FFDA">Firestore</text><rect x="440" y="291" width="156" height="22" rx="11" fill="#070D1C" stroke="#64FFDA" stroke-width="1"/><text x="518" y="306" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11.5" fill="#64FFDA">PostgreSQL</text><rect x="26" y="319" width="65" height="22" rx="11" fill="#070D1C" stroke="#64FFDA" stroke-width="1"/><text x="58" y="334" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11.5" fill="#64FFDA">JWT</text><rect x="99" y="319" width="78" height="22" rx="11" fill="#070D1C" stroke="#64FFDA" stroke-width="1"/><text x="138" y="334" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11.5" fill="#64FFDA">Groq</text>
+</svg>
