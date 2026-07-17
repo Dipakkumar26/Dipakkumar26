@@ -6,7 +6,7 @@
 ### Software Developer &nbsp;•&nbsp; AI/ML Enthusiast &nbsp;•&nbsp; Full-Stack Engineer 🚀
 
 <a href="mailto:dipakkumar2310830@ssn.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="www.linkedin.com/in/dipak-kumar-97a496305"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dipak-kumar-97a496305"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Dipakkumar26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://twitter.com/YOUR-TWITTER-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
@@ -129,7 +129,7 @@ Managed campus utility marketplace consolidating 12+ on-demand student services.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Dipakkumar26&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipakkumar26&theme=dracula&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=Dipakkumar26&theme=dracula&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
@@ -142,8 +142,8 @@ Managed campus utility marketplace consolidating 12+ on-demand student services.
 
 <div align="center">
 <a href="mailto:dipakkumar2310830@ssn.edu.in"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/YOUR-GITHUB-HANDLE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dipak-kumar-97a496305"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Dipakkumar26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:4285F4&height=100&section=footer" width="100%"/>
