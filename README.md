@@ -128,12 +128,12 @@ Managed campus utility marketplace consolidating 12+ on-demand student services.
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-HANDLE&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-HANDLE&theme=dracula&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dipakkumar26&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipakkumar26&theme=dracula&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-HANDLE&layout=compact&theme=dracula&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipakkumar26&layout=compact&theme=dracula&hide_border=true" width="48%"/>
 </div>
 
 <br>
